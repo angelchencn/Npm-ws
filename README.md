@@ -4,7 +4,7 @@ Web Services for Expense Tracker App
 ### Workflow
 ```bash
 # Install
-yarn install
+npm install
 
 # Run Expense Server (On Port 5000)
 npm run expense-server
